@@ -44,6 +44,7 @@ Training.py:
 		1. Augment class: Used to do in-memory augmentation
 		2. Net class : Model class
 		3. Train class: Performs training and data visualization
+		4. Callback Classs: To check for desired metric
 
 Prediction.py:
 
