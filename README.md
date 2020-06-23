@@ -17,7 +17,7 @@ Dataset:
 								     \
 								       \---------> Human
 
-Training.py:
+cnn_Training.py:
 	Training:
 	Model has been trained on Tensorflow Framework:
 
