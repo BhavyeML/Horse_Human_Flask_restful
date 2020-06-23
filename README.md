@@ -46,7 +46,7 @@ cnn_Training.py:
 		3. Train class: Performs training and data visualization
 		4. Callback Classs: To check for desired metric
 
-Predict(1).py:
+Predict_Final(1).py:
 
 	Evaluation: Evaluates Test images
 	Deployement framework : FLask_restful
