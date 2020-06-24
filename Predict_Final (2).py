@@ -4,8 +4,7 @@
 # In[ ]:
 
 
-get_ipython().system('pip install flask')
-get_ipython().system('pip install flask_restful')
+
 
 from flask import Flask,request,jsonify
 from flask_restful import Resource,Api
